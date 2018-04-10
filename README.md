@@ -4,4 +4,4 @@ This instagram clone app was done under the #CopyLayoutChallenge of a social med
 
 An Instagram Clone App
 
-![Image1](https://github.com/nishank95/Exchange-a-Gram/blob/master/Screenshots/instagram_layout.jpg?"Instagram Copy Layout")
+![Image1](https://raw.githubusercontent.com/nishank95/Exchange-a-Gram/master/Screenshots/layout1.jpg)
